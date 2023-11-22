@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Cursos.RegistrarCursosPage">
+    
+        <StackLayout>
+            <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+                <Label Text="Registro de Cursos" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            </Frame>
+
+            <Entry x:Name="txtIdCur" IsVisible="False"/>
+            <Entry Placeholder="Nombre de Curso" x:Name="txtNombre" />
+            <Picker Title="Tipo de Curso" x:Name="txtTipo" />
+            <Entry Placeholder="Descripcion del Curso" x:Name="txtDescripcion" />
+            <Entry Placeholder="Horas del Curso" x:Name="txtHoras" Keyboard="Numeric"/>
+        <Button Text="Guardar" x:Name="btnGuardar" Clicked="Guardar_Button_Clicked" BackgroundColor="#212df3" TextColor="White" HorizontalOptions="Center" 
+                VerticalOptions="Center" FontSize="16" CornerRadius="5" WidthRequest="200" />
+        <Button Text="Actualizar" x:Name="btnActualizar" Clicked="Button_Actualizar_Clicked" IsVisible="False" BackgroundColor="#212df3" TextColor="White" HorizontalOptions="Center" 
+                VerticalOptions="Center" FontSize="16" CornerRadius="5" WidthRequest="200" />
+        <Button Text="Eliminar" x:Name="btnEliminar" Clicked="Borrar_Button_Clicked" IsVisible="False" BackgroundColor="#212df3" TextColor="White" HorizontalOptions="Center" 
+                VerticalOptions="Center" FontSize="16" CornerRadius="5" WidthRequest="200" />
+
+            <ListView x:Name="lsEmpleados" ItemSelected="lstEmpleados_ItemSelected">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Label Text="{Binding IDCur}" Grid.Row="0" Grid.Column="0"/>
+                                <Label Text="{Binding Nombre}" Grid.Row="0" Grid.Column="1"/>
+                                <Label Text="{Binding Tipo}" Grid.Row="0" Grid.Column="2"/>
+                                <Label Text="{Binding Descripcion}" Grid.Row="0" Grid.Column="3"/>
+                                <Label Text="{Binding Horas}" Grid.Row="0" Grid.Column="4"/>
+
+                            </Grid>
+
+                        </ViewCell>
+
+                    </DataTemplate>
+
+                </ListView.ItemTemplate>
+
+            </ListView>
+
+        </StackLayout>
+   
+</ContentPage>

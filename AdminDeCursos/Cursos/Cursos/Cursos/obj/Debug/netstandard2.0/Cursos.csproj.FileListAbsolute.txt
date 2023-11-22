@@ -1,0 +1,56 @@
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.deps.json
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.dll
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\ref\Cursos.dll
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.pdb
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.AssemblyReference.cache
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarCursosPage.xaml.g.cs
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarEmpleadosPage.xaml.g.cs
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfoInputs.cache
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfo.cs
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.dll
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\refint\Cursos.dll
+C:\Users\Soporte\Videos\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.pdb
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.deps.json
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.dll
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\ref\Cursos.dll
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.pdb
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.AssemblyReference.cache
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarCursosPage.xaml.g.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarEmpleadosPage.xaml.g.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfoInputs.cache
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfo.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.CoreCompileInputs.cache
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.dll
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\refint\Cursos.dll
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.pdb
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.deps.json
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.dll
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\ref\Cursos.dll
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\bin\Debug\netstandard2.0\Cursos.pdb
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.AssemblyReference.cache
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Login.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarCursosPage.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\RegistrarEmpleadosPage.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Seguimiento.xaml.g.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfoInputs.cache
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.AssemblyInfo.cs
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.csproj.CoreCompileInputs.cache
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.dll
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\refint\Cursos.dll
+C:\UTSC_IDGS_10A\UTSC\Desarrollo movil integral\PROYECTOS_MOVIL\Cursos\Cursos\Cursos\obj\Debug\netstandard2.0\Cursos.pdb
